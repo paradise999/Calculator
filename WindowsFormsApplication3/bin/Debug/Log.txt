@@ -1,0 +1,14 @@
+wgwaeg
+	->wegiw
+	->	->Новая папка
+	->	->	->hrserhrs.txt
+	->hbsh.txt
+Key.txt
+Log.txt +
+Net.txt
+WindowsFormsApplication3.exe
+WindowsFormsApplication3.exe.config
+WindowsFormsApplication3.pdb
+WindowsFormsApplication3.vshost.exe
+WindowsFormsApplication3.vshost.exe.config
+WindowsFormsApplication3.vshost.exe.manifest
